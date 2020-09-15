@@ -1,0 +1,12 @@
+.idea/
+target
+logs
+tomcat
+*.iml
+.class
+/builder-publish/publish-a350/workspace
+**/bin
+/**/*/.classpath
+/**/*/.project
+/**/*/*.7z
+.settings/
