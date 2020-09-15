@@ -1,0 +1,15 @@
+{
+    "dmgrClient": "http://no-ppng-02.corenagroup.local:8080/dmgrclient/",
+    "acmServer": "http://no-acm-01.corenagroup.local:8080/acm/api/",
+    "ppClient": "",
+    "acmClient": "http://no-acm-01.corenagroup.local:8080/acmclient/#/",
+    "acmLogoutClient": "",
+    "loginWidget": {
+        "defaultUrl" : "#/",
+        "cookieDomain": ".corenagroup.local",
+        "cloud" : "assets/login/cloud.png",
+        "companyLogo" : "assets/login/slogo.jpg",
+        "background" : "assets/login/loginbg-2.jpg",
+        "productName" : "assets/login/loginlogo.png"
+    }
+}
